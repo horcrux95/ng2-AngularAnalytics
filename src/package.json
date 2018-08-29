@@ -1,0 +1,28 @@
+{
+  "name": "ng2-angularanalytics",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horcrux95/ng2-AngularAnalytics"
+  },
+  "author": {
+    "name": "sharangmalhotra",
+    "email": "sharang.2795@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horcrux95/ng2-AngularAnalytics/issues"
+  },
+  "main": "ng2-angularanalytics.umd.js",
+  "module": "ng2-angularanalytics.js",
+  "jsnext:main": "ng2-angularanalytics.js",
+  "typings": "ng2-angularanalytics.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}

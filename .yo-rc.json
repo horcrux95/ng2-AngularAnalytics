@@ -1,0 +1,7 @@
+{
+  "generator-angular2-library": {
+    "promptValues": {
+      "gitRepositoryUrl": "https://github.com/horcrux95/ng2-AngularAnalytics"
+    }
+  }
+}
